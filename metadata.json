@@ -1,0 +1,6 @@
+{
+  "name": "Nuriya Hajir Hat Cricket Studio & Tournament Manager",
+  "description": "Official Season 2 Photo Card Generator Studio, Live Short-Pitch Match Scorer, Points Table, Leaderboard, and Squad Management Web App for Nuriya Hajir Hat Night Short Pitch Cricket Tournament 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
